@@ -540,6 +540,6 @@ var levels = [
 		[1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
 		[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
 		],
-		tip: "Swap, by Noah Moroze and Michael Yang. Thanks for playing!",
+		tip: "A cleaner version of Swap by Weston Skiff. Thanks for playing!",
 	},
 ]
